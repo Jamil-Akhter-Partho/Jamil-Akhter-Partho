@@ -39,6 +39,14 @@
 
 </div>
 
+<br>
+
+<div align="center">
+    <img src="./assets/avatar/developer-avatar.png" width="280" alt="Jamil Akhter - Software Engineer">
+</div>
+
+<br>
+
 ---
 
 ## 01 / ABOUT ME
