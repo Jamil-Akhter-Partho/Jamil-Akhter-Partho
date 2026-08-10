@@ -51,55 +51,213 @@
 
 ## 01 / ABOUT ME
 
-I'm a Computer Science & Engineering graduate and Junior Software Engineer focused on building practical, responsive, and maintainable software.
+<div align="center">
 
-I work across the full stack — designing interfaces, developing backend systems, building REST APIs, working with relational databases, and connecting the pieces into reliable applications.
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ⚡ ENGINEERING
+
+Building practical, reliable and maintainable software with a strong focus on engineering fundamentals.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧩 FULL-STACK
+
+Working across frontend, backend, APIs and databases to build complete software systems.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏗️ SYSTEM DESIGN
+
+Connecting application layers through clean architecture, structured data and reliable integrations.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+I'm a **Computer Science & Engineering graduate** and **Junior Software Engineer** focused on turning requirements into well-structured, production-oriented applications.
+
+I work across the full stack — designing responsive interfaces, engineering backend services, developing `REST APIs`, and working with relational databases to connect the different layers of an application into one reliable system.
+
+<br>
+
+<div align="center">
+
+### ⚙️ ENGINEERING WORKFLOW
+
+> I approach software development as a lifecycle — from understanding the problem
+> and designing the system to implementation, validation, deployment, and continuous improvement.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01_DISCOVER-0A2540?style=for-the-badge&labelColor=0A2540&color=3B82F6" alt="Discover">
+
+&nbsp;→&nbsp;
+
+<img src="https://img.shields.io/badge/02_DESIGN-111827?style=for-the-badge&labelColor=111827&color=6366F1" alt="Design">
+
+&nbsp;→&nbsp;
+
+<img src="https://img.shields.io/badge/03_BUILD-111827?style=for-the-badge&labelColor=111827&color=8B5CF6" alt="Build">
+
+&nbsp;→&nbsp;
+
+<img src="https://img.shields.io/badge/04_VALIDATE-111827?style=for-the-badge&labelColor=111827&color=A855F7" alt="Validate">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/05_INTEGRATE-111827?style=for-the-badge&labelColor=111827&color=06B6D4" alt="Integrate">
+
+&nbsp;→&nbsp;
+
+<img src="https://img.shields.io/badge/06_DEPLOY-111827?style=for-the-badge&labelColor=111827&color=2563EB" alt="Deploy">
+
+&nbsp;→&nbsp;
+
+<img src="https://img.shields.io/badge/07_IMPROVE-0A2540?style=for-the-badge&labelColor=0A2540&color=7C3AED" alt="Improve">
+
+</div>
+
+| PHASE | ENGINEERING FOCUS |
+|:---|:---|
+| 🔎 **DISCOVER** | Understand requirements, constraints, users, and the actual problem. |
+| 🏗️ **DESIGN** | Define architecture, application flow, data models, and technical approach. |
+| ⚡ **BUILD** | Implement clean, readable, and maintainable application code. |
+| 🧪 **VALIDATE** | Test functionality, handle edge cases, debug issues, and verify expected behavior. |
+| 🔗 **INTEGRATE** | Connect frontend, backend, APIs, authentication, and database layers. |
+| 🚀 **DEPLOY** | Prepare applications for reliable delivery and real-world use. |
+| 🔄 **IMPROVE** | Refactor, optimize, learn from feedback, and continuously improve the system. |
+
+<div align="center">
+
+`PROBLEM` → `DESIGN` → `CODE` → `TEST` → `INTEGRATE` → `DEPLOY` → `IMPROVE`
+
+</div>
+
+</div>
 
 <br>
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="50%">
 
-### 💻
+<div align="center">
 
-**FULL-STACK**
+<table>
+<tr>
 
-Frontend + Backend
+<td width="50%" valign="top">
+
+### 🎯 WHAT I BUILD
+
+<br>
+
+**WEB APPLICATIONS**
+
+`Responsive UI` · `Component Architecture`
+
+<br>
+
+**API SYSTEMS**
+
+`REST APIs` · `Authentication` · `Authorization`
+
+<br>
+
+**BACKEND SERVICES**
+
+`Laravel` · `Node.js` · `PHP`
+
+<br>
+
+**DATA-DRIVEN SYSTEMS**
+
+`MySQL` · `PostgreSQL` · `Data Modeling`
+
+<br>
+
+**APPLICATION FEATURES**
+
+`CRUD` · `Validation` · `Business Logic`
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-### 🔗
+### 🧠 HOW I ENGINEER
 
-**APIs**
+<br>
 
-RESTful Services
+**01 · CLARITY**
+
+Writing code that is readable, structured, and intentional.
+
+<br>
+
+**02 · ARCHITECTURE**
+
+Designing maintainable systems with clear separation of concerns.
+
+<br>
+
+**03 · INTEGRATION**
+
+Connecting frontend, backend, APIs, and databases reliably.
+
+<br>
+
+**04 · PROBLEM SOLVING**
+
+Breaking complex requirements into practical engineering solutions.
+
+<br>
+
+**05 · CONTINUOUS IMPROVEMENT**
+
+Refactoring, learning, optimizing, and improving what I build.
 
 </td>
 
-<td width="25%" align="center">
+</tr>
+</table>
 
-### 🗄️
-
-**DATABASES**
-
-SQL & Data
-
-</td>
-
-<td width="25%" align="center">
-
-### 🧩
-
-**ENGINEERING**
-
-Clean Architecture
+</div>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+**Frontend**  
+`HTML5` · `CSS3` · `React` · `Next.js`
+
+**Backend**  
+`PHP` · `Laravel` · `Node.js` · `Python`
+
+**Data**  
+`MySQL` · `PostgreSQL`
+
+</div>
+
+<br>
+
+> **I don't focus only on making software work — I focus on understanding the problem, designing the system, building the solution, and improving it over time.**
+
+
 
 ## 02 / TECHNOLOGY STACK
 
